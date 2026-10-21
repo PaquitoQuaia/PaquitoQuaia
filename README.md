@@ -1,18 +1,12 @@
-<!--
-  PEDRO QUAIA | GitHub Profile README
-  Mantém os projetos e as informações reais do perfil.
-  O banner é carregado do arquivo header.svg neste mesmo repositório.
--->
-
 <div align="center">
   <img src="header.svg" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
 
 
   <a href="https://github.com/PaquitoQuaia">
     <img src="https://img.shields.io/badge/GitHub-PaquitoQuaia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PaquitoQuaia" />
+  </a>
   <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="Desenvolvimento de Sistemas no SENAI" />
   <img src="https://img.shields.io/badge/JavaScript-EM%20APRENDIZADO-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript em aprendizado" />
-  </a>
 
   
 
@@ -29,7 +23,7 @@
 </div>
 
 01 — Sobre mim
-- 🧠 Estudando: orientação a objetos, desenvolvimento web e bancos de dados.
+- 🧠 Estudando: Programação de sites e banco de dados
 - 🛠️ Aprendendo a usar: C#, Python, JavaScript, HTML, CSS e MySQL.
 <br clear="right" />
 
