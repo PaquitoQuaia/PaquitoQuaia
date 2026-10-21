@@ -20,12 +20,10 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Técnico em Desenvolvimento de Sistemas no SENAI** e uso este GitHub para praticar programação, organizar meus projetos e acompanhar minha evolução.
+Sou estudante de **Técnico em Desenvolvimento de Sistemas no SENAI**.
 
 - 🧩 Estudando lógica de programação e orientação a objetos.
 - 💻 Explorando C#, Python, JavaScript, desenvolvimento web e bancos de dados.
-- 🛠️ Gosto de transformar ideias em projetos que funcionem de verdade.
-- 📚 Sempre aprendendo e melhorando um pouco a cada versão.
 
 ## 🚀 Projetos
 
@@ -52,5 +50,5 @@ Sou estudante de **Técnico em Desenvolvimento de Sistemas no SENAI** e uso este
 ---
 
 <p align="center">
-  <em>Este perfil está em construção — assim como minhas habilidades. 🚧</em>
+  <em>Este perfil está em construção🚧</em>
 </p>
