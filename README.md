@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+na+pr%C3%A1tica%2C+projeto+por+projeto;JavaScript+%E2%80%94+em+aprendizado;CSS/HTML+%E2%80%94+em+aprendizado;C#+%E2%80%94+em+aprendizado;Python+%E2%80%94+em+aprendizado;" alt="Estudante de Desenvolvimento de Sistemas;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Estudante+de+Desenvolvimento+de+Sistemas;JavaScript+%E2%80%94+em+aprendizado;CSS/HTML+%E2%80%94+em+aprendizado;C#+%E2%80%94+em+aprendizado;Python+%E2%80%94+em+aprendizado;" alt="Estudante de Desenvolvimento de Sistemas;" />
 </div>
 
 01 — Sobre mim
