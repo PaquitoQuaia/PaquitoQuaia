@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
+  <img src="header-loop.gif" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
 
 
   <a href="https://github.com/PaquitoQuaia">
