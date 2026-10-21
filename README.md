@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="header-loop.gif" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
-
+  <img src="pedro_quaia_minimal.gif" width="100%" alt="Pedro Quaia">
+</div>
 
   <a href="https://github.com/PaquitoQuaia">
     <img src="https://img.shields.io/badge/GitHub-PaquitoQuaia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PaquitoQuaia" />
