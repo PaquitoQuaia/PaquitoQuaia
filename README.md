@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-Em%20aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-Em%20aprendizado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript em aprendizado" />
   <img src="https://img.shields.io/badge/MySQL-Em%20aprendizado-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS" />
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Em%20aprendizado-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS" />
 </p>
 
 ---
