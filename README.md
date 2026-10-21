@@ -1,54 +1,113 @@
-<p align="center">
-  <img src="header.svg" alt="PaquitoQuaia — Desenvolvimento de Sistemas" width="100%" />
-</p>
+<!--
+  PEDRO QUAIA | GitHub Profile README
+  Mantém os projetos e as informações reais do perfil.
+  O banner é carregado do arquivo header.svg neste mesmo repositório.
+-->
 
-<p align="center">
-  <strong>Estudante de Desenvolvimento de Sistemas · SENAI</strong><br />
-  Aprendendo na prática, um projeto de cada vez.
-</p>
+<div align="center">
+  <img src="header.svg" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/PaquitoQuaia"><img src="https://img.shields.io/badge/GitHub-PaquitoQuaia-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/C%23-Em%20aprendizado-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/Python-Em%20aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-Em%20aprendizado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript em aprendizado" />
-  <img src="https://img.shields.io/badge/MySQL-Em%20aprendizado-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Em%20aprendizado-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS" />
-</p>
 
----
+  <a href="https://github.com/PaquitoQuaia">
+    <img src="https://img.shields.io/badge/GitHub-PaquitoQuaia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PaquitoQuaia" />
+  </a>
+  <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="Desenvolvimento de Sistemas no SENAI" />
+  <img src="https://img.shields.io/badge/JavaScript-EM%20APRENDIZADO-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript em aprendizado" />
 
-## 👋 Sobre mim
+  
 
-Sou estudante de **Técnico em Desenvolvimento de Sistemas no SENAI**.
 
-- 🧩 Estudando lógica de programação e orientação a objetos.
-- 💻 Explorando C#, Python, JavaScript, desenvolvimento web e bancos de dados.
+  <a href="#sobre-mim">Sobre mim</a>   ◈  
+  <a href="#projetos">Projetos</a>   ◈  
+  <a href="#tecnologias">Tecnologias</a>   ◈  
+  <a href="#estatisticas">Estatísticas</a>
+</div>
 
-## 🚀 Projetos
 
-| Projeto | Sobre |
-| --- | --- |
-| [**projeto2.0**](https://github.com/PaquitoQuaia/projeto2.0) | Projeto de desenvolvimento em evolução. |
-| [**landpage**](https://github.com/PaquitoQuaia/landpage) | Experimento de criação de página web. |
-| [**Jogos**](https://github.com/PaquitoQuaia/Jogos) | Espaço para projetos e práticas relacionadas a jogos. |
-| [**Exercicios**](https://github.com/PaquitoQuaia/Exercicios) | Exercícios para praticar programação. |
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+na+pr%C3%A1tica%2C+projeto+por+projeto;JavaScript+%E2%80%94+em+aprendizado" alt="Estudante de Desenvolvimento de Sistemas; aprendendo na prática; JavaScript em aprendizado" />
+</div>
 
-## 🧰 Tecnologias e ferramentas
+01 — Sobre mim
+Fala! Eu sou o Pedro Quaia, estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI. Estou construindo minha base em programação fazendo exercícios, testando ideias e desenvolvendo projetos na prática.
+- 🎓 Foco atual: lógica de programação e fundamentos de desenvolvimento.
+- 🧠 Estudando: orientação a objetos, desenvolvimento web e bancos de dados.
+- 🛠️ Aprendendo a usar: C#, Python, JavaScript, HTML, CSS e MySQL.
+- 🌱 Mentalidade: aprender, construir, errar, corrigir e evoluir.
+<br clear="right" />
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+02 — Projetos em destaque
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚛 <a href="https://github.com/PaquitoQuaia/projeto2.0">Truck Parts · projeto2.0</a></h3>
+        Projeto de desenvolvimento em evolução. Um dos espaços onde pratico a construção de uma aplicação mais completa.
+        <br /><br />
+        <a href="https://github.com/PaquitoQuaia/projeto2.0"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto2.0" /></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🌐 <a href="https://github.com/PaquitoQuaia/landpage">Landing page</a></h3>
+        Experimento de criação de páginas web e organização de elementos de interface.
+        <br /><br />
+        <a href="https://github.com/PaquitoQuaia/landpage"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver landpage" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎮 <a href="https://github.com/PaquitoQuaia/Jogos">Jogos</a></h3>
+        Repositório para práticas e experiências relacionadas ao desenvolvimento de jogos.
+        <br /><br />
+        <a href="https://github.com/PaquitoQuaia/Jogos"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver Jogos" /></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📚 <a href="https://github.com/PaquitoQuaia/Exercicios">Exercícios</a></h3>
+        Exercícios e pequenos programas para praticar lógica e consolidar os fundamentos.
+        <br /><br />
+        <a href="https://github.com/PaquitoQuaia/Exercicios"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver Exercicios" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <sub>Conheça também os outros repositórios no <a href="https://github.com/PaquitoQuaia?tab=repositories">meu perfil</a>.</sub>
+</div>
+
+03 — Tecnologias & ferramentas
+<div align="center">
+  <h3>Em aprendizado 📖</h3>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript em aprendizado" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+  
+
+
+  <h3>Ferramentas 🧰</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+</div>
 
----
+04 — Estatísticas do GitHub
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PaquitoQuaia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&ring_color=818CF8&include_all_commits=true" alt="Estatísticas públicas do GitHub de Pedro Quaia" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaquitoQuaia&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Linguagens detectadas nos repositórios públicos" />
+</div>
 
-<p align="center">
-  <em>Este perfil está em construção🚧</em>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PaquitoQuaia&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=7DD3FC&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Sequência de contribuições do GitHub" />
+</div>
+
+<sub>Os cartões de estatísticas são gerados por serviços externos e podem levar algum tempo para carregar.</sub>
+<div align="center">
+  <h3>Um commit de cada vez. 🚀</h3>
+  <p><i>Este perfil está em construção — assim como minhas habilidades.</i></p>
+  <img src="https://img.shields.io/badge/STATUS-SEMPRE%20APRENDENDO-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Status: sempre aprendendo" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:818CF8,100:C084FC&height=4&section=footer" width="100%" alt="" />
+</div>
