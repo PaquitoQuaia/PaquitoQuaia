@@ -1,8 +1,4 @@
-<!--
-  PEDRO QUAIA | GitHub Profile README
-  Mantém os projetos e as informações reais do perfil.
-  O banner é carregado do arquivo header.svg neste mesmo repositório.
--->
+
 
 <div align="center">
   <img src="header.svg" alt="Pedro Quaia — Desenvolvimento de Sistemas" width="100%" />
@@ -25,13 +21,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+na+pr%C3%A1tica%2C+projeto+por+projeto;JavaScript+%E2%80%94+em+aprendizado" alt="Estudante de Desenvolvimento de Sistemas; aprendendo na prática; JavaScript em aprendizado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+na+pr%C3%A1tica%2C+projeto+por+projeto;JavaScript+%E2%80%94+em+aprendizado" alt="Estudante de Desenvolvimento de Sistemas; JavaScript em aprendizado; CSS/HTML em aprendizado; C# em aprendizado; Python em aprendizado" />
 </div>
 
+
 01 — Sobre mim
-Fala! Eu sou o Pedro Quaia, estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI. Estou construindo minha base em programação fazendo exercícios, testando ideias e desenvolvendo projetos na prática.
-- 🎓 Foco atual: lógica de programação e fundamentos de desenvolvimento.
-- 🧠 Estudando: orientação a objetos, desenvolvimento web e bancos de dados.
 - 🛠️ Aprendendo a usar: C#, Python, JavaScript, HTML, CSS e MySQL.
 - 🌱 Mentalidade: aprender, construir, errar, corrigir e evoluir.
 <br clear="right" />
