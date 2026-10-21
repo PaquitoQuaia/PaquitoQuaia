@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pedro_quaia_minimal_loop.gif" width="100%" alt="Pedro Quaia">
+  <img src="pedro_quaia_minimal_loop.gif" width="100%" alt="Pedro Quaia" loop="0">
 </div>
 
   <a href="https://github.com/PaquitoQuaia">
