@@ -4,10 +4,8 @@
 
   <a href="https://github.com/PaquitoQuaia">
     <img src="https://img.shields.io/badge/GitHub-PaquitoQuaia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PaquitoQuaia" />
-  </a>
   <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="Desenvolvimento de Sistemas no SENAI" />
-  <img src="https://img.shields.io/badge/JavaScript-EM%20APRENDIZADO-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript em aprendizado" />
-
+  </a>
   
 
 
