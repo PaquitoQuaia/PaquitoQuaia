@@ -98,7 +98,7 @@
 <div align="center">
   <h3>Um commit de cada vez. 🚀</h3>
   <p><i>Este perfil está em construção.</i></p>
-  <img src="https://img.shields.io/badge/STATUS-SEMPRE%20APRENDENDO-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Status: estudando" />
+  <img src="https://img.shields.io/badge/STATUS-ESTUDANDO-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Status: estudando" />
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:818CF8,100:C084FC&height=4&section=footer" width="100%" alt="" />
 </div>
